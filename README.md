@@ -38,13 +38,16 @@ Here we verify that our service is on azure
 Now we switch the context
 ![image](https://github.com/user-attachments/assets/bb7028fe-5c9d-4212-bc85-6098f5389949)
 
+
 Now we create the nginx pod
 ![image](https://github.com/user-attachments/assets/5d321c9b-f521-479d-a331-8f7aec13c2fc)
+
 
 
 Now we change the type to obtain a port to search in http
 ![image](https://github.com/user-attachments/assets/c14b82d3-e090-440e-bef3-97d5533beb20)
 ![image](https://github.com/user-attachments/assets/4ef11264-528f-4003-81d7-52f5983257bb)
+
 
 
 Here we:
